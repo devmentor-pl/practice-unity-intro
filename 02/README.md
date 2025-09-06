@@ -2,10 +2,14 @@
 
 &nbsp;
 
-# `#02` {module-name-in-pdf}
+# `#02` Unity: Wprowadzenie
 
-Tutaj treść
-
+## Kontroler Kamery
+Zaimplementuj kontroler kamery, który będzie podążał za kulą:
+1. Kamera płynnie porusza się, śledząc kulę. Dla lepszych doznań wizualnych, kamera ma delikatne przyspieszenie/spowolnienie na początku/końcu ruchu;
+2. Kamera orbituje dookoła kuli, jej położenie można kontrolować ruchami myszki;
+3. Ustawienie kamery wpływa na kierunek ruchu kuli - np. wciśnięcie "W" nie oznacza ruchu w kardynalnym kierunku "przód", tylko w kierunku "przód" relatywnie do kamery;
+4. Kamerę można przybliżać i oddalać od kuli za pomocą scrolla myszki;
 
 &nbsp;
 > :no_entry: *Jeśli nie posiadasz materiałów do tego zadania tj. **PDF, projekt + Code Review**, znajdziesz je na stronie [devmentor.pl](https://devmentor.pl/workshop-{module-name})*

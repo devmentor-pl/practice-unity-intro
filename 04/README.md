@@ -2,10 +2,16 @@
 
 &nbsp;
 
-# `#04` {module-name-in-pdf}
+# `#04` Unity: Wprowadzenie
 
-Tutaj treść
-
+## Progresja
+Zaimplementuj cele do wykonywania dla gracza:
+1. Brama - może się otwierać lub zamykać w oparciu o powiązany mechanizm (mechanizmy wyliczone w następnych punktach);
+2. Przełącznik - przycisk włącz/wyłącz, którego kula musi dotknąć, by zmienić jego stan;
+3. Kryształy - unoszące się w powietrzu przedmioty, które kula zbiera najeżdżając na nie, mechanizm może wymagać zebrania określonej ilości;
+4. Czasomierz - przycisk, który otwiera bramę na konfigurowalną ilość czasu, po czym ją od razu zamyka;
+5. Klucz - unoszący się w powietrzu przedmiot, który zostaje "zebrany" przez kulę po zbliżeniu się (zaczyna za nią podążać). Po dotarciu do powiązanej bramy, otwiera ją i znika;
+6. Bramki logiczne - możliwość łączenia / modyfikowania sygnałów z innych mechanizmów (w tym innych bramek), zawierają bramki NOT, AND, OR, XOR, NAND, NOR, NXOR.
 
 &nbsp;
 
